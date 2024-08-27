@@ -3,7 +3,6 @@
 #include <conio.h>
 #include <string>
 using namespace std;
-// task 3
 int main()
 {
     int r, c;
