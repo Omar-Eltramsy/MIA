@@ -67,7 +67,7 @@ Design a robot to detect and neutralize mines planted by the Joker across Gotham
 **Description:** Opens file.txt in the Nano text editor for editing.
 # Task 8 Programming OOP
 * [Final battel](https://github.com/OMRTAREK/MIA/blob/Programming-OOP/final%20battel.cpp)
-### State machine diagram
+* State machine diagram
 ![State machine diagram](https://github.com/user-attachments/assets/79b2aae0-4f1a-4d64-b6f0-6e487362690a)
 
 * [Queue using two stacks](https://github.com/OMRTAREK/MIA/blob/Programming-OOP/final%20battel.cpp)
