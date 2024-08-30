@@ -20,7 +20,7 @@ Design a robot to detect and neutralize mines planted by the Joker across Gotham
 * [Chees](https://github.com/OMRTAREK/MIA/blob/task-4-ML/chess/chess.py)
 * [predict the weather](https://github.com/OMRTAREK/MIA/tree/task-4-ML/predict%20the%20weather)
 # Task 5 Embedded 2
-*[Communication Protocol](https://www.tinkercad.com/things/5KuwmPjM3rw-task1communicationprotocol?sharecode=hVciSAWMLX3nF-QWM2B4UT46RRrHqQptRwshq--fNJM)
+* [Communication Protocol](https://www.tinkercad.com/things/5KuwmPjM3rw-task1communicationprotocol?sharecode=hVciSAWMLX3nF-QWM2B4UT46RRrHqQptRwshq--fNJM)
 # Task 6 PCB Design
 # Task 7 Basic Linux Commands Practice
 
