@@ -74,4 +74,5 @@ Design a robot to detect and neutralize mines planted by the Joker across Gotham
 # Task 9 ROS & Docker
 * [ROS](https://github.com/OMRTAREK/MIA/tree/ROS-%26-Docker/ROS)
 * [Docker](https://github.com/OMRTAREK/MIA/tree/ROS-%26-Docker/Docker/python_interactive) & [Docker Image](https://hub.docker.com/r/omareltramsy/python_image)
-
+# Task 10 Senors
+* [connet arduino with MPU6050 by I2C](https://github.com/OMRTAREK/MIA/blob/Sensors/MPU6050.ino)
