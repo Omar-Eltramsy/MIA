@@ -1,0 +1,19 @@
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Change Net Name : Old Net Name=NetBatery_1 New Net Name=VCC
+Change Net Name : Old Net Name=NetMotor_1 New Net Name=OUT1
+Change Net Name : Old Net Name=NetMotor_2 New Net Name=OUT2
+Added Pin To Net: NetName=IN1 Pin=MC-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=MC-2
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=MC-3
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=MC-4
+Added Net: Name=IN4
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor

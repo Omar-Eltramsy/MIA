@@ -1,0 +1,16 @@
+Added Component: Designator=R1(FP-RC_L0402-IPC_A)
+Added Component: Designator=R2(FP-RC_L0402-IPC_A)
+Added Component: Designator=R3(FP-RC_L0402-IPC_A)
+Added Component: Designator=R4(FP-RC_L0402-IPC_A)
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Class Member: Failed to add class member : Component R1 RC0402FR-072KL
+Add Class Member: Failed to add class member : Component R2 RC0402FR-072KL
+Add Class Member: Failed to add class member : Component R3 RC0402FR-072KL
+Add Class Member: Failed to add class member : Component R4 RC0402FR-072KL
