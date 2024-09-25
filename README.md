@@ -22,6 +22,7 @@ Design a robot to detect and neutralize mines planted by the Joker across Gotham
 # Task 5 Embedded 2
 * [Communication Protocol](https://www.tinkercad.com/things/5KuwmPjM3rw-task1communicationprotocol?sharecode=hVciSAWMLX3nF-QWM2B4UT46RRrHqQptRwshq--fNJM)
 # Task 6 PCB Design
+* [PCB Design](https://github.com/Omar-Eltramsy/MIA/tree/PCB-Design)
 # Task 7 Basic Linux Commands Practice
 
 ## 1. `ls`
