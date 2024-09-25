@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=Micro  NewDesignator=Micro
+Change Class Name : Old Net Name=h bridge New Net Name=motor driver
+Added Member To Class: ClassName=motor driver Member=Component Micro M20-9990445
